@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hey what's up? I'm <a href="https://www.linkedin.com/in/fernando-suares-b80130188//"><i>Fernando Suares</i></a> 😃️</h1>
-
-
+  <img align="center" height="300em" src=https://github.com/fsuares/fsuares/blob/teste/assets/WhatsApp%20Image%202021-08-09%20at%2022.48.38.jpg-modified.png/>
+  
 <div align="center">
   <a href="https://github.com/fsuares">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fsuares&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
