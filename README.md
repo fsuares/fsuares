@@ -1,7 +1,7 @@
 <div>
   <!--<p align="center" style="border-radius:100%"/><img height="225em" src="/assets/13-modified.png/">-->
   <h1 align="center">Hey, what's up? I'm <a href="https://www.linkedin.com/in/fernando-suares-b80130188//"><i>Fernando Suares</i></a> 😃️</h1>
-  <p align="center">Backend Deveolper</p>
+  <p align="center">Desenvolvedor Backend | Javascript | Typescript | NodeJS | Docker | SQL</p>
 
 
 <!--<div align="center">
