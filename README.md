@@ -17,7 +17,7 @@
 [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
 [![Beekeeper](https://img.shields.io/badge/Beekeeper-ffd753?logo=beekeeperstudio&logoColor=000)](#)
 [![Bruno](https://img.shields.io/badge/Bruno-fda94f?logo=bruno&logoColor=000)](#)
-[![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-2f49d9?logo=ghostty_term)](#)
+[![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 
